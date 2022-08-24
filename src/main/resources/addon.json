@@ -1,6 +1,10 @@
 {
-  "name": "Example Addon",
   "uuid": "%uuid%",
-  "mainClass": "com.example.addon.ExampleAddon",
-  "transformerClass": "com.example.addon.ExampleAddonTransformer"
+  "name": "ToolBreak Warning",
+  "mainClass": "com.rappytv.tbw.ToolBreakWarning",
+  "description": "Stops you from using your currently used tool when its almost destroyed.",
+  "version": 1,
+  "author": "RappyTV#6969",
+  "category": 2,
+  "icon": "https://cdn.discordapp.com/attachments/962708390805655593/974731356137467995/icon.png"
 }
